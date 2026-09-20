@@ -16,3 +16,4 @@ Contac with me
 
 ## My projects 
 
+<img alt="Static Badge" src="https://img.shields.io/badge/stm32-blue?style=for-the-badge">
