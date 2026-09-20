@@ -1,4 +1,5 @@
-### Roberto Lopez
+# Roberto Lopez
+### Electrical Engineering Student
 ---
 Contac with me 
 ---
