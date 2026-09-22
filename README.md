@@ -21,9 +21,9 @@ Beyond circuits and code, I am passionate about **music** and a strong believer 
   <img src="https://img.shields.io/badge/xilinx-ED1C24?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto" />
   
   <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly (AVR, ARM)-2F2F2F?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly (AVR, ARM)-181717?style=for-the-badge&logo=assemblyscript&logoColor=white" />
   
   <!-- Circuit Simulation and pcb design-->
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white&logoSize=auto" />
