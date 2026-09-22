@@ -13,7 +13,7 @@ Beyond circuits and code, I am passionate about **music** and a strong believer 
 
 <p align="left">
   <img src="https://img.shields.io/badge/STM32-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto" />
-  <img src="https://img.shields.io/badge/STM32-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto" />
+  <img src="https://img.shields.io/badge/STM32CUBE-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto" />
   
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -28,11 +28,10 @@ Beyond circuits and code, I am passionate about **music** and a strong believer 
   <img src="https://img.shields.io/badge/LTspice-900000?style=for-the-badge&logo=analogdevices&logoColor=white" />
   <img src="https://img.shields.io/badge/xilinx-ED1C24?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto" />
 </p>
-<img src="https://img.shields.io/badge/LTspice-900000?style=for-the-badge&logo=ltspice&logoColor=white&logoSize=auto" />
+<img src="https://img.shields.io/badge/LTspice-white?style=for-the-badge&logo=ltspice&logoColor=900000&logoSize=auto" />
 
 
 
-<img src="https://img.shields.io/badge/Microchip-CC0000?style=for-the-badge&logo=microchip&logoColor=white&logoSize=auto" />
 ---
 
 ## My projects 
