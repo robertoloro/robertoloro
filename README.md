@@ -22,7 +22,7 @@ Beyond circuits and code, I am passionate about **music** and a strong believer 
   <img src="https://img.shields.io/badge/AVR-CC0000?style=for-the-badge&logo=microchip&logoColor=white" />
   <img src="https://img.shields.io/badge/PIC-00427E?style=for-the-badge&logo=microchip&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white&logoWidth=24" />
   <img src="https://img.shields.io/badge/NGspice-555555?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LTspice-900000?style=for-the-badge&logo=analogdevices&logoColor=white" />
   <img src="https://img.shields.io/badge/Xilinx-E01F27?style=for-the-badge&logo=xilinx&logoColor=white" />
