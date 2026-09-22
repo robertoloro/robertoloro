@@ -5,9 +5,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Roberto%20Lopez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rodriguez.roberto.0809@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rodriguez.roberto.0809@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-rodriguez.roberto.0809@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
+
 
 ---
 ## About me:
