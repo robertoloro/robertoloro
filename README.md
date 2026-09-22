@@ -1,6 +1,7 @@
 # Roberto Lopez | Electronical Engineering Student
 ---
-Contac with me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto-lopez-37a2ba437) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rodriguez.roberto.0809@gmail.com) 
+
 ---
 ## About me:
 Hi! I'm **Roberto**, an **Electronics Engineering** student focused on **embedded systems**, **hardware design**, and **low-level technology**.
