@@ -18,21 +18,21 @@ Beyond circuits and code, I am passionate about **music** and a strong believer 
   
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/MPLAB_X-CC0000?style=for-the-badge&logo=microchip&logoColor=white&logoSize=auto" />
-  <img src="https://img.shields.io/badge/AVR-CC0000?style=for-the-badge&logo=microchip&logoColor=white" />
-  <img src="https://img.shields.io/badge/PIC-00427E?style=for-the-badge&logo=microchip&logoColor=white" />
 
-  <!-- Version Control -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly (AVR, ARM)-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
   <img src="https://img.shields.io/badge/xilinx-ED1C24?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto" />
   <!-- Circuit Simulation and pcb design-->
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white&logoSize=auto" />
   <img src="https://img.shields.io/badge/LTspice-555555?style=for-the-badge&logo=ltspice&logoColor=900000&logoSize=auto" />
   <img src="https://img.shields.io/badge/NGspice-555555?style=for-the-badge&logoColor=white" />
+
+<!-- Version Control -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   
 </p>
 
