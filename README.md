@@ -1,7 +1,7 @@
 # Roberto Lopez | Electronical Engineering Student
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank">
+  <a href="https://www.linkedin.com/in/roberto-lopez-37a2ba437/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Roberto%20Lopez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:TU-CORREO@gmail.com">
