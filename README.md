@@ -12,8 +12,8 @@ Beyond circuits and code, I am passionate about **music** and a strong believer 
 ## 🛠️ Tech & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32Cube-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/stm32-blue?style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/stm32CUBE-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
