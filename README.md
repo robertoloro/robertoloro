@@ -28,7 +28,7 @@ Beyond circuits and code, I am passionate about **music** and a strong believer 
   <img src="https://img.shields.io/badge/LTspice-900000?style=for-the-badge&logo=analogdevices&logoColor=white" />
   <img src="https://img.shields.io/badge/xilinx-ED1C24?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto" />
 </p>
-<img src="https://img.shields.io/badge/LTspice-white?style=for-the-badge&logo=ltspice&logoColor=900000&logoSize=auto" />
+<img src="https://img.shields.io/badge/LTspice-555555?style=for-the-badge&logo=ltspice&logoColor=900000&logoSize=auto" />
 
 
 
