@@ -30,5 +30,5 @@ Beyond circuits and code, I am passionate about **music** and a strong believer 
 ---
 
 ## My projects 
-
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto" />
 <img alt="Static Badge" src="https://img.shields.io/badge/stm32-blue?style=for-the-badge">
