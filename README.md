@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/roberto-lopez-37a2ba437/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Roberto%20Lopez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU-CORREO@gmail.com">
+  <a href="mailto:rodriguez.roberto.0809@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-rodriguez.roberto.0809@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
