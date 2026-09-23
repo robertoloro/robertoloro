@@ -51,9 +51,8 @@ Beyond circuits and code, I am passionate about **music** and a strong believer 
 
 ## My projects 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AMD%20XILINX-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/BOOTH%20WALLACE%20MULTIPLIER-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=FFFFFF" />
+<p align="left">
+  <img src="https://img.shields.io/badge/AMD%20XILINX-BOOTH%20WALLACE%20MULTIPLIER-white?style=for-the-badge&labelColor=ED1C24&color=FFFFFF&logo=amd&logoColor=white" />
 </p>
 
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto" />
