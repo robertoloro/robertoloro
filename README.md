@@ -56,7 +56,7 @@ Beyond circuits and code, I am passionate about **music** and a strong believer 
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AMD%20XILINX-IEEE%20754%20Floating-Point%20Calculator-white?style=for-the-badge&labelColor=ED1C24&color=FFFFFF&logo=amd&logoColor=white&logoSize=auto" />
+  <img src="https://img.shields.io/badge/AMD%20XILINX-IEEE%20754%20Floating--Point%20Calculator-white?style=for-the-badge&labelColor=ED1C24&color=FFFFFF&logo=amd&logoColor=white&logoSize=auto" />
 </p>
 
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto" />
