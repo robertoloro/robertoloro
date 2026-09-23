@@ -64,7 +64,7 @@ Beyond circuits and code, I am passionate about **music** and a strong believer 
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/STM32-IEEE%20754%20Floating--Point%20Calculator-555555?style=for-the-badge&labelColor=03234B&logo=stmicroelectronics&logoColor=white&logoSize=auto" />
+  <img src="https://img.shields.io/badge/STM32-IEEE%20754%20Floating--Point%20Calculator-555555?style=for-the-badge&labelColor=blue&logo=stmicroelectronics&logoColor=white&logoSize=auto" />
 </p>
 
  <img src="https://img.shields.io/badge/STM32-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto" />
