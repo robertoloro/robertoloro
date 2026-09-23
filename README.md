@@ -50,5 +50,20 @@ Beyond circuits and code, I am passionate about **music** and a strong believer 
 ---
 
 ## My projects 
+
+<table>
+  <tr>
+    <td width="220" align="center">
+      <img src="https://img.shields.io/badge/AMD%20Xilinx-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+    </td>
+    <td>
+      <b>FPGA Digital Design</b><br>
+      Diseño e implementación de sistemas digitales utilizando FPGA,
+      VHDL y herramientas de AMD Xilinx.
+    </td>
+  </tr>
+</table>
+
+
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto" />
 <img alt="Static Badge" src="https://img.shields.io/badge/stm32-blue?style=for-the-badge">
